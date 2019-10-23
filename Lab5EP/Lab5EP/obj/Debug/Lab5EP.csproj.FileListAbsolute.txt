@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\Lab5EP.csprojAssemblyReference.cache
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\MainWindow.g.cs
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\App.g.cs
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\Lab5EP_MarkupCompile.cache
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\Lab5EP_MarkupCompile.lref
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\bin\Debug\Lab5EP.exe.config
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\bin\Debug\Lab5EP.exe
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\bin\Debug\Lab5EP.pdb
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\MainWindow.baml
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\Lab5EP.g.resources
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\Lab5EP.Properties.Resources.resources
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\Lab5EP.csproj.GenerateResource.cache
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\Lab5EP.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\Lab5EP.exe
+C:\Users\Emil\source\repos\Lab5EP\Lab5EP\obj\Debug\Lab5EP.pdb
